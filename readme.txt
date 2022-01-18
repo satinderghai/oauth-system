@@ -1,4 +1,4 @@
-=============Wordpress Oauth system =======
+============= Wordpress Oauth system =======
 
 Plugin Name: Oauth system
 Version: 1.0
