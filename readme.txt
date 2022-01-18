@@ -1,6 +1,6 @@
-============= Oauth system =======
+=============Wordpress Oauth system =======
 
-Name: Oauth system
+Plugin Name: Oauth system
 Version: 1.0
 Stable tag: 1.0
 Requires PHP: < 7.2.4
